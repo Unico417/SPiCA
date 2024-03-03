@@ -1,0 +1,32 @@
+# source
+**/*.js    text eol=lf encoding=utf8
+**/*.jsx   text eol=lf encoding=utf8
+**/*.ts    text eol=lf encoding=utf8
+**/*.tsx   text eol=lf encoding=utf8
+**/*.py    text eol=lf encoding=utf8
+**/*.html  text eol=lf encoding=utf8
+**/*.css   text eol=lf encoding=utf8
+**/*.scss  text eol=lf encoding=utf8
+
+# resource
+**/*.json  text eol=lf encoding=utf8
+**/*.xml   text eol=lf encoding=utf8
+**/*.gitignore      text eol=lf encoding=utf8
+**/*.gitattributes  text eol=lf encoding=utf8
+
+# config
+**/*.lock  text eol=lf encoding=utf8
+**/*.conf  text eol=lf encoding=utf8
+**/*.ini   text eol=lf encoding=utf8
+**/*.yaml  text eol=lf encoding=utf8
+
+# media
+**/*.jpg    binary
+**/*.JPG    binary
+**/*.jpeg   binary
+**/*.JPEG   binary
+**/*.png    binary
+**/*.PNG    binary
+**/*.webp   binary
+**/*.WEBP   binary
+**/*.svg    text eol=lf encoding=utf8

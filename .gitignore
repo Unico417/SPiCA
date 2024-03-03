@@ -1,0 +1,6 @@
+**/__pycache__/
+**/*.pyc
+**/node_modules/
+
+public/js/main.js
+public/css/style.css
