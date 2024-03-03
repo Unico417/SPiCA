@@ -19,6 +19,7 @@
 **/*.conf  text eol=lf encoding=utf8
 **/*.ini   text eol=lf encoding=utf8
 **/*.yaml  text eol=lf encoding=utf8
+**/.prettierrc  text eol=lf encoding=utf8
 
 # media
 **/*.jpg    binary
